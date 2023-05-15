@@ -15,9 +15,6 @@
       <button @click="signIn"
         class="border border-blue-700 hover:bg-blue-300 hover:border-blue-400 w-24 rounded-md bg-[#3266f6] text-white">sign
         in</button>
-      {{ email }}
-      {{ password }}
-      {{ errorCode }}
     </div>
   </div>
 </template>
